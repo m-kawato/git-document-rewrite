@@ -1,0 +1,7 @@
+gitの付属ドキュメント (HTML形式) を書き換えて、まともなフォントで表示されるように修正するツール
+
+使用方法:
+1. cd ~/tmp # 適当なディレクトリ
+2. cp -R /usr/local/share/doc/git-doc .
+3. cp -R git-doc git-doc-orig
+4. ./git-document-rewrite.sh

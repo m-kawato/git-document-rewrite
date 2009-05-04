@@ -1,2 +1,2 @@
-s/: serif/: DejaVu Sans/g
-s/: sans-serif/: DejaVu Sans/g
+s/: serif/: DejaVu Sans, Verdana, sans-serif/g
+s/: sans-serif/: DejaVu Sans, Verdana, sans-serif/g
